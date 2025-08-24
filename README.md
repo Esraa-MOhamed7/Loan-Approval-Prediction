@@ -44,9 +44,9 @@ This project uses the **Loan-Approval-Prediction-Dataset** to build and evaluate
 ## 📊 Key Visualizations
 
 Here are a few charts that highlight important insights from the project
-**العربية:** يوضح العلاقات بين المتغيرات ويساعد في تحديد المؤشرات القوية.
-![Heatmap](images/heatmap.png) 
-**العربية:** مقارنة النماذج النهائية باستخدام Countplot لعرض الدقة.
+
+![Heatmap](https://github.com/Esraa-MOhamed7/Loan-Approval-Prediction/blob/main/Loan%20Status%20Distibution.png) 
+
 
 ![Model Comparison](images/model_comparison.png)
 
