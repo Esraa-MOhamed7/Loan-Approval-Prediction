@@ -48,10 +48,9 @@ Here are a few charts that highlight important insights from the project
 ![Heatmap](https://github.com/Esraa-MOhamed7/Loan-Approval-Prediction/blob/main/Loan%20Status%20Distibution.png) 
 
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](https://github.com/Esraa-MOhamed7/Loan-Approval-Prediction/blob/main/Models%20Performance%20Comparsion.png)
 
 ---
 
 ## 💡 Author
-
-**Esraa** — Passionate about making tech accessible, building reproducible workflows, and empowering learners through clear documentation and visual storytelling.
+Esraa — Passionate about data science, AI, and sharing knowledge through clear, accessible projects.
